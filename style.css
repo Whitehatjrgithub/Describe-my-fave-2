@@ -1,0 +1,62 @@
+body {
+    background: linear-gradient(#FF002B 0%, #FF00E1 100%);
+    background-repeat: no-repeat;
+    text-align: center;
+
+}
+
+h1 {
+    text-shadow: 2px 2px #F8BBD0;
+    font-size: 50px;
+}
+
+.profile {
+    border-radius: 50%;
+    width: 500px;
+    text-align: center;
+}
+
+#bio {
+    padding: 20px;
+    font-size: 18px;
+    text-align: center;
+}
+
+.line {
+    height: 6px;
+    width: 70px;
+    background-color: black;
+    margin: 8px auto;
+
+}
+
+
+
+.links{
+    float: left;
+    color:lavender;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+p {
+    color: yellow;
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float:right;
+    top:10px;
+    right:30px;
+    cursor: pointer;
+    color: black;
+}
+
+#myname{
+    font-family: 'Courgette', cursive;
+}
